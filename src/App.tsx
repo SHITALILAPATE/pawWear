@@ -1,10 +1,7 @@
-function App() {
+export default function App() {
   return (
-    <div style={{padding: "40px"}}>
-      <h1>PawWear Working 🚀</h1>
-      <p>Your React + Vite app is fixed.</p>
+    <div>
+      <h1>PawWear Store</h1>
     </div>
-  )
+  );
 }
-
-export default App
