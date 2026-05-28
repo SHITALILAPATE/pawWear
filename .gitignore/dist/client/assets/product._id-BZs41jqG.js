@@ -1,1 +1,0 @@
-import{j as o,L as n}from"./index-CVnpu3OE.js";const e=()=>o.jsxs("div",{className:"py-32 text-center",children:[o.jsx("p",{className:"text-muted-foreground",children:"Product not found."}),o.jsx(n,{to:"/shop",className:"mt-4 inline-block underline",children:"Back to shop"})]});export{e as notFoundComponent};
